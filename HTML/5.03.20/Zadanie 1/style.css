@@ -1,0 +1,34 @@
+body {
+	background-color: #ff0;
+	color: #186321;
+}
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+	font-family: Arial CE;
+	color: #f00;
+}
+
+img {
+	border: 3px solid #000;
+	width: 100px;
+	height: 100px;
+}
+
+p {
+	text-align: center;
+}
+
+table {
+	border: 4px solid #ad4a18;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: #00000011;
+	padding: 1em 0;
+}
